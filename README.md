@@ -1,19 +1,20 @@
-Primeiro desafio do Frontend Mentor!
+
+# Primeiro desafio do Frontend Mentor!
 
 QR code component
 
 O desafio é construir esse QR code component e fazer com que pareça o mais próximo possível do design.
 
-# Guia de estilo de front-end
+## Guia de estilo de front-end
 
-##Layout
+### Layout
 
 Os designs foram criados nas seguintes larguras:
 
 - Celular: 375px
 Área de trabalho: 1440px
 
-## Cores
+### Cores
 
 - Branco: hsl(0, 0%, 100%)
 - Cinza claro: hsl (212, 45%, 89%)
